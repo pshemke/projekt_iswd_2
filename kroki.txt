@@ -1,7 +1,0 @@
-1.Ustawić indexy na samą górę
-2. Wyznaczam nieporównywalność 6 i 4
-3. Sprawdzam krótszą drogę (dla 4 w negative)
-4. 4 nierozróżnialne z 1 i 2
-5. zapisuję 4 i przesuwam index negative w dół
-6. Sprawdzam nieporównywalności dla 6
-7. zapisuję 6 na poziomie 4 i przesuwam index positive w dół
